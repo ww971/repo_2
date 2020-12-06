@@ -9,7 +9,7 @@ Program jest prostym skryptem do obliczania sumy liczb z tablicy.
 Notepad++,
 https://www.w3schools.com/java/default.asp
 
-##Skrypt
+## Skrypt
 
 ```
 import javax.swing.*;
