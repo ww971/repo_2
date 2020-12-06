@@ -1,17 +1,3 @@
-# repo-158265-
-
-
-## G³ówne informacje
-Program jest prostym skryptem do obliczania sumy liczb z tablicy.
-	
-## Technologie
-#Projekt utworzony przy pomocy:
-Notepad++,
-https://www.w3schools.com/java/default.asp
-
-##Skrypt
-
-`` ''
 import javax.swing.*;
 
 public class Classtablica {
@@ -28,4 +14,3 @@ public class Classtablica {
     System.out.println("Suma liczb z tablicy wynosi " + suma);
   }
 }
-`` ''
